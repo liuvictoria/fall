@@ -4,7 +4,7 @@ title: Mary Oliver
 permalink: waterfall
 img: about.png # Add image post (optional)
 sidebar: true
-interactive: nightfalls.html
+interactive: waterfall.html
 ---
 ---
 
