@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Mary Oliver
-permalink: waterfall
-img: about.png # Add image post (optional)
+title: Marilyn Chin
+permalink: autumn
+img: autumn.png # Add image post (optional)
 sidebar: true
-interactive: waterfall.html
+interactive: autumn.html
 ---
 ---
 
