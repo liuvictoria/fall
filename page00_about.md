@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-description: Information about the project, website, and links to the paper and SI
+description: Collection of poetry related to the word "fall" in any sense of the word, with any manifestation
 img: about.png # Add image post (optional)
-caption: "A Serious Man (2010)"
+caption: "Fall"
 permalink: index.html
 sidebar: true
 ---
