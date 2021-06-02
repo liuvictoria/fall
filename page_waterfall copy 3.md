@@ -2,7 +2,7 @@
 layout: page
 title: Mary Oliver
 permalink: waterfall
-img: waterfall.png # Add image post (optional)
+img: about.png # Add image post (optional)
 sidebar: true
 interactive: waterfall.html
 ---
